@@ -11,3 +11,4 @@ print(" * ".join(list))
 print(" @ ".join(list))
 
 print(type(list))
+print(type(" ".join(list)))
