@@ -11,4 +11,5 @@ print(" * ".join(list))
 print(" @ ".join(list))
 
 print(type(list))
-print(type(" ".join(list)))
+string = " ".join(list)
+print(type(string))
