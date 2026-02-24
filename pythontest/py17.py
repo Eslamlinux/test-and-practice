@@ -10,6 +10,7 @@ print(" + ".join(list))
 print(" * ".join(list))
 print(" @ ".join(list))
 
+
 print(type(list))
 string = " ".join(list)
 print(type(string))
