@@ -13,3 +13,8 @@ print(" @ ".join(list))
 print(type(list))
 string = " ".join(list)
 print(type(string))
+
+age = 33
+name = "eslam"
+
+print("my name is: %s and my age is: %d"%(name , age))
