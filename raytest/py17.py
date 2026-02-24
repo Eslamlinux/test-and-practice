@@ -16,5 +16,6 @@ print(type(string))
 
 age = 33
 name = "eslam"
+rank = 11
 
-print("my name is: %s and my age is: %d"%(name , age))
+print("my name is: %s and my age is: %d rank is: %f"%(name , age,rank))
