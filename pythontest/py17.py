@@ -21,3 +21,4 @@ rank = 11
 
 print("my name is: %s and my age is: %d rank is: %f"%(name , age,rank))
 print("my name is: %s and my age is: %d rank is: %.10f"%(name , age,rank))
+print("my name is {} \nmy age {}".format(name,age))
