@@ -10,4 +10,5 @@ void main()
     printf("my ranke is : %.2f\n",rank);
     printf("my ranke is : %f\n",rank);
     printf("name %.3s\n",ss);
+    printf("my name is {} %s",ss);
 }
