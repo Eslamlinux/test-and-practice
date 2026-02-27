@@ -28,4 +28,4 @@ print("my rank {:.2f}".format(rank))
 st1 = "hi"
 st2 = "hey"
 st3 = "hello"
-print()
+print("+".join(st1+st2+st3))
