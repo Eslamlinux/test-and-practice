@@ -24,3 +24,8 @@ print("my name is: %s and my age is: %d rank is: %.10f"%(name , age,rank))
 print("my name is {} \nmy age {}".format(name,age))
 print("my name is {:s} \nmy age {:d}".format(name,age))
 print("my rank {:.2f}".format(rank))
+
+st1 = "hi"
+st2 = "hey"
+st3 = "hello"
+print()
