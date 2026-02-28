@@ -39,3 +39,9 @@ a,b,c = "hi","hey","hello"
 
 print("first {} second {} therd {}".format(a,b,c))
 print("first {2} second {1} therd {0}".format(a,b,c))
+
+
+num = 2456333
+
+print("num = {}".format(num))
+print("num = {0:.2f}".format(num))
