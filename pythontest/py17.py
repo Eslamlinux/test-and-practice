@@ -42,6 +42,7 @@ print("first {2} second {1} therd {0}".format(a,b,c))
 
 
 num = 2456333
+num1 = 2456333
 
 print("num = {}".format(num))
-print("num = {0:.2f}".format(num))
+print("num = {0:.2f} num1 {1:.3f}".format(num,num1))
