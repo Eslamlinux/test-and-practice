@@ -46,3 +46,6 @@ num1 = 2456333
 
 print("num = {}".format(num))
 print("num = {0:.2f} num1 {1:.3f}".format(num,num1))
+
+print("my name is: {name} my age is: {age}")
+print(f"my name is: {name} my age is: {age}")
