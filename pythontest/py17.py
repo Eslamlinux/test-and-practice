@@ -34,3 +34,8 @@ print(type(lst))
 
 print("age = {:_d}",age)
 print("age = {:_d}".format(age))
+
+a,b,c = "hi","hey","hello"
+
+print("first {} second {} therd {}".format(a,b,c))
+print("first {2} second {1} therd {0}".format(a,b,c))
