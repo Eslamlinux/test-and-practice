@@ -32,5 +32,5 @@ lst = [st1,st2,st3]
 print(" + ".join(lst))
 print(type(lst))
 
-print("age= {:_d}",age)
-print("age= {:_d}".format(age))
+print("age = {:_d}",age)
+print("age = {:_d}".format(age))
