@@ -4,7 +4,7 @@ std::string convertToBase7(int num) {
 std::string result ="";
 bool Is_Minus = false;
 long long nums = num;
-
+// first 
 if(nums < 0 )
 {
     nums *= -1;
