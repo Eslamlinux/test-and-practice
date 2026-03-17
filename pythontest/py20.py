@@ -29,3 +29,7 @@ a.extend(b)
 print(a)
 print(len(a))
 
+my = list(["hi",a])
+by = list(("hellllo","okay"))
+print(my)
+print(by)
