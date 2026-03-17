@@ -35,3 +35,6 @@ print(my)
 print(by)
 print(type(by))
 print(type(my))
+
+num = [5,3,7,9,41,2,3,11,10,8,7,6,4]
+print(num)
