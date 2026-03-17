@@ -27,3 +27,5 @@ b = [10,30]
 # print(a)
 a.extend(b)
 print(a)
+print(len(a))
+
