@@ -42,3 +42,5 @@ print(num)
 num.sort()
 print(num)
 
+num.sort(reverse=True)
+print(num)
