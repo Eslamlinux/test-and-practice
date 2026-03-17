@@ -19,3 +19,11 @@ print(a**b)
 a += 10
 
 print(a,b)
+
+a = ["hi","whats","your" ,"name",7]
+b = [10,30]
+
+# a.append(b)
+# print(a)
+a.extend(b)
+print(a)
