@@ -1,0 +1,5 @@
+cmake_minimum_required(version 3.0)
+
+project(BallGame CXX)
+
+set(CMAKE_CXX_STANDER 11)

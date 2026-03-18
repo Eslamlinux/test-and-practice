@@ -1,0 +1,7 @@
+2025-11-13  eslam  <eslam@eslam>
+
+	* .cproject: New file.
+	* .project: New file.
+	* .settings/language.settings.xml: New file.
+	* .settings/org.eclipse.core.resources.prefs: New file.
+	* c.cpp: New file.

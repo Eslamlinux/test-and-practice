@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="cpp-test-and-practice" Database="" Version="10000">
+  <Project Name="testcodelit" Path="testcodelit/testcodelit.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="testcodelit" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

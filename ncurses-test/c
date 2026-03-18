@@ -1,0 +1,3 @@
+
+  4. Type  w TEST  , where TEST is a filename that does not exist yet.  Verify
+     that you see  :'<,'>w TEST  before you press <ENTER>.
