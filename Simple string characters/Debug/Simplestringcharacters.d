@@ -1,1 +1,0 @@
-Simplestringcharacters.o: ../Simplestringcharacters.cpp
