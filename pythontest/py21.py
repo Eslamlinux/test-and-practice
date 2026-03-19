@@ -6,3 +6,6 @@ print(thislist)
 
 thislist.insert(0,"semsem")
 print(thislist)
+
+thislist[0:2] = ["zero","one"]
+print(thislist)
