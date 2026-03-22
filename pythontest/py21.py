@@ -18,3 +18,6 @@ print(thislist)
 
 thislist.extend(anotherlist)
 print(thislist)
+
+thislist.clear()
+print(thislist)
