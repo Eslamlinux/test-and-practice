@@ -21,3 +21,9 @@ print(thislist)
 
 thislist.clear()
 print(thislist)
+
+print("%s %s"%("hello","semsem"))
+print("{} {}".format("hello","semsem"))
+nn = "hello"
+ns = "semsem"
+print(f"{"new method = "}{nn} {ns}")
