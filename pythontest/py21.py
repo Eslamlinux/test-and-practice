@@ -33,4 +33,8 @@ for n in thislist:
 
 print("\n")
 for n  in range(len(thislist)):
-    print(n,thislist[n])
+    print(n+1,thislist[n])
+
+print("\n")
+for n in range(2):
+    print(n+1,thislist[n])
