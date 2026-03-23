@@ -5,3 +5,8 @@ for n in fruits:
         newdta.append(n)
 
 print(newdta)
+
+
+newdta = [n for n in fruits if("a") in n]
+print("\n")
+print(newdta)
