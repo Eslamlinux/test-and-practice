@@ -42,3 +42,9 @@ for n in range(3):
 print("\n")
 for n in range(2):
     print(n+1,thislist[n+1])
+
+print("\n")
+i = 0
+while i < 3:
+    print(i+1,thislist[i])
+    i+=1
