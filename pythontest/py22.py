@@ -1,0 +1,7 @@
+fruits = ["apple", "banana", "cherry", "kiwi", "mango","bc"]
+newdta = []
+for n in fruits:
+    if("c") in n:
+        newdta.append(n)
+
+print(newdta)
