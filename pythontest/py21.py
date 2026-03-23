@@ -48,3 +48,6 @@ i = 0
 while i < 3:
     print(i+1,thislist[i])
     i+=1
+
+print("\n")
+[print(n) for n in thislist]
