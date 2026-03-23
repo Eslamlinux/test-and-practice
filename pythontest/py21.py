@@ -30,3 +30,7 @@ thislist = ["apple", "banana", "cherry"]
 
 for n in thislist:
     print(n)
+
+print("\n")
+for n  in range(len(thislist)):
+    print(n,thislist[n])
