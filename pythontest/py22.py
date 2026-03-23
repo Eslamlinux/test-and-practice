@@ -15,3 +15,8 @@ print(newdta)
 newdta = [n.upper() for n in fruits if(n.lower()) in n]
 print("\n")
 print(newdta)
+
+newlist = ["kiwi" for n in fruits]
+print("\n")
+print(newlist)
+print(len(newlist))
