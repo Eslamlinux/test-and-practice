@@ -24,3 +24,11 @@ print(len(newlist))
 t = ("hellp","hi")
 print(t)
 print(type(t))
+print(len(t))
+
+tu1 = ("hello")
+print(type(tu1))
+
+tu2 = ("hello",)
+print(type(tu2))
+
