@@ -20,3 +20,7 @@ newlist = ["kiwi" for n in fruits]
 print("\n")
 print(newlist)
 print(len(newlist))
+
+t = ("hellp","hi")
+print(t)
+print(type(t))
