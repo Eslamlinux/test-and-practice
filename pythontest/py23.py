@@ -27,3 +27,12 @@ print(ll)
 ll.sort(reverse=True)
 print(ll)
 
+ll2 = [1,5,8,0,6,4,7,2,3,6,9]
+ll2.sort()
+print(ll2)
+def func(ln):
+    return abs(ln-5)
+
+
+ll2.sort(key= func)
+print(ll2)
