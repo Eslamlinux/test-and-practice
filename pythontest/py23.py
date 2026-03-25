@@ -20,3 +20,10 @@ print(ta.index(1))
 ll =["hello","ahmed","baba"]
 print(type(ll))
 print(ll)
+
+ll.sort()
+print(ll)
+
+ll.sort(reverse=True)
+print(ll)
+
