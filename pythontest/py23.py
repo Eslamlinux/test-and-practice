@@ -11,4 +11,5 @@ print(tu)
 print(type(tu))
 print(type(tt))
 print(type(tt2))
+print(tt*3)
 
