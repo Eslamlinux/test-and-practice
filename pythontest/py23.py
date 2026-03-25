@@ -14,3 +14,4 @@ print(type(tt2))
 print(tt*3)
 
 print(ta.count(2))
+print(ta.index(2))
