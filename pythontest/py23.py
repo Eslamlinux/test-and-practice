@@ -36,3 +36,9 @@ def func(ln):
 
 ll2.sort(key= func)
 print(ll2)
+
+ll3 = [1,5,8,0,6,4,7,2,3,6,9]
+print(ll3)
+ll3.reverse()
+print(ll3)
+
