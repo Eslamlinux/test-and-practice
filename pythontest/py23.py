@@ -48,3 +48,5 @@ lln[0] = 1
 print(lln)
 print(lln2)
 print(lln3)
+
+print(lln3.index(0))
