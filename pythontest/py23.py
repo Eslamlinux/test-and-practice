@@ -43,6 +43,8 @@ ll3.reverse()
 print(ll3)
 lln = ll3.copy()
 lln2 = list(lln)
+lln3 = lln[:]
 lln[0] = 1
 print(lln)
 print(lln2)
+print(lln3)
