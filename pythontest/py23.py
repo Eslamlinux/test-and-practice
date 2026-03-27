@@ -41,4 +41,6 @@ ll3 = [1,5,8,0,6,4,7,2,3,6,9]
 print(ll3)
 ll3.reverse()
 print(ll3)
-
+lln = ll3.copy()
+lln[0] = 1
+print(lln)
