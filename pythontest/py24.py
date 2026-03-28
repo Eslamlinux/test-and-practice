@@ -5,6 +5,7 @@ x , y,_,z =tu1
 
 print(x,y,z)
 
-mysetone = {}
+mysetone = {"eslam","33"}
 
 print(type(mysetone))
+
