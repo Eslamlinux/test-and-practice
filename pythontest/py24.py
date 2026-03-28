@@ -9,4 +9,4 @@ mysetone = {"eslam","33"}
 # mysetone.clear()
 print(mysetone)
 print(type(mysetone))
-
+# print(mysetone[0:])
