@@ -7,3 +7,10 @@ print(sett1.union(sett2))
 sett1.add("cool")
 print(sett1)
 print(type(sett1))
+
+
+newset = sett1.copy()
+newset.add(6)
+print(newset)
+print(sett1)
+
