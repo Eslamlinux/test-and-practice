@@ -15,4 +15,5 @@ print(newset)
 print(sett1)
 
 sett1.remove("hi")
+sett1.discard("hey")
 print(sett1)
