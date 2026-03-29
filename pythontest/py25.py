@@ -1,4 +1,4 @@
-sett1 = {"hi","hey"}
+sett1 = {"hi","hey","how","okay"}
 sett2 = {"hello","hoo"}
 
 
@@ -16,4 +16,5 @@ print(sett1)
 
 sett1.remove("hi")
 sett1.discard("hey")
+print(sett1.pop())
 print(sett1)
