@@ -14,3 +14,5 @@ newset.add(6)
 print(newset)
 print(sett1)
 
+sett1.remove("hi")
+print(sett1)
