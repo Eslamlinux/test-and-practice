@@ -17,9 +17,9 @@ print(sett1)
 sett1.remove("hi")
 sett1.discard("hey")
 print(sett1.pop())
+
+sett1.update(["seeemo","koko"])
 print(sett1)
-print(sett1)
-print(sett1)
-print(sett1)
-print(sett1)
+
+sett1.update(sett2)
 print(sett1)
