@@ -13,3 +13,8 @@ sett1.intersection_update(sett3)
 print(sett1)
 
 print(sett1.symmetric_difference(sett3))
+
+print(sett1)
+
+sett1.symmetric_difference_update(sett3)
+print(sett1)
