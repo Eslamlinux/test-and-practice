@@ -7,3 +7,7 @@ print(sett2.difference(sett1))
 
 print(sett1.intersection(sett2))
 print(sett2.intersection(sett1))
+
+sett3 = {"helllo","cool"}
+sett1.intersection_update(sett3)
+print(sett1)
