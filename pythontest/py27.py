@@ -30,3 +30,5 @@ lst[2] = 5
 print(type(lst))
 print(lst[2])
 
+for x in ttuple:
+    print(x)
