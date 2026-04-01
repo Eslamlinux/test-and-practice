@@ -19,3 +19,12 @@ ttuple += h
 
 print(ttuple)
 
+ttuple += ftuple
+print(ttuple)
+
+ttuple = (7)
+
+lst = [1,2,3]
+lst += [2]
+print(lst)
+
