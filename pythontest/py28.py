@@ -8,5 +8,5 @@ print(se1.issuperset(se2))
 print(se1.issubset(se2))
 print(se2.issubset(se1))
 print(se1.isdisjoint(se2))
-se3 = {2,1,4,6,8}
+se3 = {7,6,8}
 print(se1.isdisjoint(se3))
