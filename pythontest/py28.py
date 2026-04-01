@@ -7,3 +7,4 @@ print(se1.issuperset(se2))
 
 print(se1.issubset(se2))
 print(se2.issubset(se1))
+print(se1.isdisjoint(se2))
