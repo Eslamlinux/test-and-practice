@@ -39,3 +39,7 @@ for x in range(len(t2tuple)):
 
 for o in t2tuple:
     print(o)
+i = 0
+while i < len(t2tuple):
+    print(t2tuple[i])
+    i+=1
