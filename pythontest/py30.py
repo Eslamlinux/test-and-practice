@@ -9,3 +9,4 @@ id = {
 
 print(id)
 
+print(id["name"])
