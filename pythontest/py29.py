@@ -1,5 +1,14 @@
 t1 = (1,2,3)
 t2 = (4,5,6)
 
-t3 = join(t1,t2)
-print(t3)
+# Create the tuple
+fruits = ("apple", "banana", "cherry")
+# Print the second item
+print(fruits[1])
+# Print the number of items
+print(len(fruits))
+# Unpack the tuple
+a ,b,c = fruits
+# Print b
+print(b)
+
