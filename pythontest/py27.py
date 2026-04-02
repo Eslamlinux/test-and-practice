@@ -29,6 +29,13 @@ lst += [2]
 lst[2] = 5
 print(type(lst))
 print(lst[2])
-print(ttuple[0])
-for x in range(5):
-    print(x)
+
+t2tuple = ("hi",1,2,3)
+
+print(t2tuple[0])
+
+for x in range(len(t2tuple)):
+    print(t2tuple[x])
+
+for o in t2tuple:
+    print(o)
