@@ -29,6 +29,6 @@ lst += [2]
 lst[2] = 5
 print(type(lst))
 print(lst[2])
-
-for x in range(len(ttuple)):
-    print(ttuple[x])
+print(ttuple[0])
+for x in range(5):
+    print(x)
