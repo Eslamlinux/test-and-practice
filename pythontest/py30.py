@@ -10,3 +10,5 @@ id = {
 print(id)
 
 print(id["name"])
+print(id.get("name"))
+
