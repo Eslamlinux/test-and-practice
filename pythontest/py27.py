@@ -43,3 +43,7 @@ i = 0
 while i < len(t2tuple):
     print(t2tuple[i])
     i+=1
+
+
+print(t2tuple * 2)
+
