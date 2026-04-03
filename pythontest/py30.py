@@ -12,3 +12,7 @@ print(id)
 print(id["name"])
 print(id.get("name"))
 
+myset = {"hi","hye"}
+
+print(type(id))
+print(type(myset))
