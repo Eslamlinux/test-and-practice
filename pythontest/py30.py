@@ -55,8 +55,12 @@ mu1.intersection_update(mu2)
 print(mu1)
 
 
-sett1 = {1,False}
+sett1 = {1,False,5}
 sett2 = {0,True}
 
 sett1.intersection(sett2)
 print(sett1)
+
+
+print(sett1.difference(sett2))
+
