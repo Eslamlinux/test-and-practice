@@ -17,4 +17,5 @@ myset = {"hi","hye"}
 print(type(id))
 print(type(myset))
 
-
+myset.add("cool")
+print(myset)
