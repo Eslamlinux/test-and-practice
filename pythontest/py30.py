@@ -53,3 +53,10 @@ print(ne)
 
 mu1.intersection_update(mu2)
 print(mu1)
+
+
+sett1 = {1,False}
+sett2 = {0,True}
+
+sett1.intersection(sett2)
+print(sett1)
