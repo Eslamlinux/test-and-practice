@@ -35,7 +35,7 @@ for i in myset:
     print(i)
 
 
-mu1 = {"hi","hey","hi","hh"}
+mu1 = {"hi","hey","hi","hh",22}
 mu2 = {"hi","hey","hh"}
 mu3 = {"hi","hey"}
 mu4 = {"hi","hey"}
@@ -46,6 +46,8 @@ cset = callmu.union(mu1,mu2,mu3,mu4)
 
 print(cset)
 
-ne = mu1.intersection(mu2)
-
+# ne = mu1.intersection(mu2)
+ne = mu1 & mu2
+print(mu1)
 print(ne)
+
