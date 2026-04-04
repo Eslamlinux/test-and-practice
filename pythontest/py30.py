@@ -51,3 +51,5 @@ ne = mu1 & mu2
 print(mu1)
 print(ne)
 
+mu1.intersection_update(mu2)
+print(mu1)
