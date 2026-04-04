@@ -19,3 +19,9 @@ print(type(myset))
 
 myset.add("cool")
 print(myset)
+
+myset.update(id)
+print(myset)
+
+myset.remove("cool")
+print(myset)
