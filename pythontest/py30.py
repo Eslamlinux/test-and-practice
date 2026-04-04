@@ -30,5 +30,6 @@ print(myset)
 myset.discard("hi")
 myset.discard("col")
 print(myset)
-
-
+myset.add(1)
+for i in myset:
+    print(i)
