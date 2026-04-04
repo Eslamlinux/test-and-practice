@@ -23,5 +23,10 @@ print(myset)
 myset.update(id)
 print(myset)
 
+# myset.remove("col")
 myset.remove("cool")
 print(myset)
+
+myset.discard("hi")
+print(myset)
+
