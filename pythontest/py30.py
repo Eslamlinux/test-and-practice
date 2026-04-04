@@ -33,3 +33,15 @@ print(myset)
 myset.add(1)
 for i in myset:
     print(i)
+
+
+mu1 = {"hi","hey"}
+mu2 = {"hi","hey"}
+mu3 = {"hi","hey"}
+mu4 = {"hi","hey"}
+
+callmu ={"all",2}
+
+cset = callmu.union(mu1,mu2,mu3,mu4)
+
+print(cset)
