@@ -5,3 +5,7 @@ DIC1 = {
         2:"good"
     }
 }
+
+print(DIC1)
+
+prin(DIC1[2[1]])
