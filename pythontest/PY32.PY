@@ -10,4 +10,4 @@ print(DIC1)
 
 print(DIC1[2][1])
 
-
+fset = frozenset({root,sys,Enux_Linux})
