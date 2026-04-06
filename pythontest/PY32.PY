@@ -8,4 +8,4 @@ DIC1 = {
 
 print(DIC1)
 
-prin(DIC1[2[1]])
+print(DIC1[2][1])
