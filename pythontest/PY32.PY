@@ -10,6 +10,10 @@ print(DIC1)
 
 print(DIC1[2][1])
 
+print("="*25)
 fset = frozenset({"root","sys","Einux_Linux"})
-
+nfset = fset.copy()
+print(nfset)
 print(fset)
+print(type(fset))
+
