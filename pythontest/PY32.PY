@@ -9,3 +9,5 @@ DIC1 = {
 print(DIC1)
 
 print(DIC1[2][1])
+
+
