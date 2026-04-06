@@ -25,3 +25,4 @@ print(ndefset)
 print(nintersec)
 print(isdis)
 
+print(len(DIC1))
