@@ -21,4 +21,6 @@ print(dic.get(0))
 dic[3] ="three"
 dic.pop(2)
 print(dic)
+dic.popitem()
+print(dic)
 
