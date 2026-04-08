@@ -27,9 +27,9 @@ print(dic)
 del dic[1]
 print(dic)
 
-# del dic
-# print(dic)
 
 dic.clear()
 print(dic)
 
+del dic
+# print(dic) will couse errore after del
