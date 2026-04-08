@@ -27,3 +27,9 @@ print(dic)
 del dic[1]
 print(dic)
 
+# del dic
+# print(dic)
+
+dic.clear()
+print(dic)
+
