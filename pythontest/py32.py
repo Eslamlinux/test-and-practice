@@ -18,3 +18,6 @@ print(dic.get(0))
 dic.update({0:"eslam"})
 print(dic.get(0))
 
+dic[3] ="three"
+print(dic)
+
