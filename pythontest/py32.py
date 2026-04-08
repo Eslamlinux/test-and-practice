@@ -24,3 +24,6 @@ print(dic)
 dic.popitem()
 print(dic)
 
+del dic[1]
+print(dic)
+
