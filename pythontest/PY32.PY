@@ -26,4 +26,3 @@ print(nintersec)
 print(isdis)
 
 print(len(DIC1))
-print(len(DIC1))
