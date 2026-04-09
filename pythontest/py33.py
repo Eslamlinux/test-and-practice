@@ -23,3 +23,8 @@ for i in dic.values():
     print(i)
 for i2 in dic.keys():
     print(i2)
+
+for i3 in dic.items():
+    print(i3)
+
+    
