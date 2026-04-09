@@ -12,3 +12,7 @@ print(dic)
 
 print(dic.popitem())
 
+a = ("one","tow","three")
+b ="vall"
+
+print(dict.fromkyes(a, b))
