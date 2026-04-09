@@ -29,3 +29,5 @@ for i3 in dic.items():
 
 for i4 ,i5 in dic.items():
     print(i4,i5)
+print(type(dd))
+
