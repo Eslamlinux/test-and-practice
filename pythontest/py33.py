@@ -8,3 +8,7 @@ dic.setdefault(2,"cool")
 del dic[0]
 dic.setdefault(0,"hassan")
 print(dic)
+
+
+print(dic.popitem())
+
