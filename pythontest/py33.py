@@ -13,6 +13,7 @@ print(dic)
 print(dic.popitem())
 
 a = ("one","tow","three")
-b ="vall"
+b = 10
 
-print(dict.fromkyes(a, b))
+dd = dict.fromkeys(a, b)
+print(dd)
