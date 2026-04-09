@@ -21,4 +21,5 @@ print(dd)
 print(dic)
 for i in dic.values():
     print(i)
-
+for i2 in dic.keys():
+    print(i2)
