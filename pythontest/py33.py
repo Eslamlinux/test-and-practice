@@ -27,4 +27,5 @@ for i2 in dic.keys():
 for i3 in dic.items():
     print(i3)
 
-    
+for i4 ,i5 in dic.items():
+    print(i4,i5)
