@@ -17,3 +17,8 @@ b = 10
 
 dd = dict.fromkeys(a, b)
 print(dd)
+
+print(dic)
+for i in dic.values():
+    print(i)
+
