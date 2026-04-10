@@ -8,3 +8,6 @@ elif a > 2:
     print("a > 2")
 elif a > 3:
     print("a > 3")
+
+elif:
+    print(type("a > 3"))
