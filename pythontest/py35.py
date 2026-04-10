@@ -1,6 +1,9 @@
 
-fname = input("what's your name? ")
+fname = input("What's your name? ")
 lname = input("what's your father name? ")
 
-print(fname.strip() + " " +lname.strip())
+fname = fname.strip().capitalize()
+lname = lname.strip().capitalize()
+
+print(f"Hello {fname} {lname} How Are You!")
   
