@@ -9,5 +9,5 @@ elif a > 2:
 elif a > 3:
     print("a > 3")
 
-elif:
+else:
     print(type("a > 3"))
