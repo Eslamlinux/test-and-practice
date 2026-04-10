@@ -12,5 +12,13 @@ dic1[5] = "hi"
 print(dic3)
 
 diccopy = dict(dic3)
+diccopy[1] = "zerro"
 print(diccopy)
 
+ls = list([dic1.keys() ,dic1.values()])
+print(type(ls))
+print(ls[0])
+print(ls[1])
+
+for l in ls:
+    print(l)
