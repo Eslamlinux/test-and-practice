@@ -10,3 +10,7 @@ dic3 = dic1.copy()
 print(dic3)
 dic1[5] = "hi"
 print(dic3)
+
+diccopy = dict(dic3)
+print(diccopy)
+
