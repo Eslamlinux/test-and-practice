@@ -7,3 +7,6 @@ lname = lname.strip().capitalize()
 
 print(f"Hello {fname} {lname} How Are You!")
   
+
+email = "linuxeslam@gmail.com"
+print(email[:email.index("@")])
