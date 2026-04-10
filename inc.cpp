@@ -17,6 +17,15 @@ int main()
     {
         std::cout << "a > 3\n";
     }
+    else
+    {
+        std::cout << "else \n";
+    }
+    
+    if(a > 4)
+    {
+        std::cout << "a > 4\n";
+    }
     
     return 0;
 }
