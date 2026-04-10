@@ -12,3 +12,4 @@ else:
  print("not included")
 
 print("cool" if Age > 1 and Age < 100 else "not cool")
+
