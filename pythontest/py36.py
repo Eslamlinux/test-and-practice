@@ -11,3 +11,7 @@ elif a > 3:
 
 else:
     print(type("a > 3"))
+
+if a > 5:
+    pass
+# print("a > 5")
