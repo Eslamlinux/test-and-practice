@@ -15,3 +15,10 @@ else:
 if a > 5:
     pass
 # print("a > 5")
+
+class wait:
+    pass
+
+def func():
+    pass
+
