@@ -34,3 +34,9 @@ for letter in name:
 else:
     print("no more letter \n")
 print(123)
+
+
+for x in range(3):
+    print(x)
+def myfunc():
+    print("my")
