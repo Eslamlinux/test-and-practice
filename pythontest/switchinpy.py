@@ -22,3 +22,6 @@ while i > 0 :
     if i == 5:
         continue
     print(i)
+else:
+    print("while is ended")
+
