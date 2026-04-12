@@ -27,3 +27,8 @@ while i > 0 :
 else:
     print("while is ended")
 
+name = "Eslam"
+for letter in name:
+    print(letter)
+else:
+    print("no more letter \n")
