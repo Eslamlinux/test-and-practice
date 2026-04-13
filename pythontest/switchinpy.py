@@ -40,3 +40,4 @@ for x in range(3):
     print(x)
 def myfunc():
     print("my")
+myfunc()
