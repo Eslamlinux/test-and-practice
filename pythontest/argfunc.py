@@ -6,3 +6,4 @@ def func(*arg):
     print(arg[2])
 
 func("hi","hye","hello")
+func("hi","hye","hello")
