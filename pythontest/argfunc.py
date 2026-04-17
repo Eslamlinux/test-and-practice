@@ -11,3 +11,4 @@ func("hi","hye","hello")
 def fun(name , age = "def"  ,country = "Egypt"):
     skip
 
+fun("eslam")
