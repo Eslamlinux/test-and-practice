@@ -31,6 +31,7 @@ int main()
 {
 	std::cout << findLongest(std::vector<int> {3, 40000, 100}) << std::endl;
 	std::cout << findLongest(std::vector<int> { 1,300000, 200, 400000}) <<std::endl;
+	std::cout << "\n";
 	
 return 0;
 }
