@@ -54,6 +54,7 @@ print(type(x))
 x = x >> 3
 print(x)
 
+print("\n")
 x = x << 3
 print(x)
 
