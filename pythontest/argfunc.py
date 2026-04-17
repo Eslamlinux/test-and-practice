@@ -7,3 +7,7 @@ def func(*arg):
 
 func("hi","hye","hello")
 func("hi","hye","hello")
+
+def fun(name , age = "def"  ,country = "Egypt"):
+    skip
+
