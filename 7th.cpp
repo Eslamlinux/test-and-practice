@@ -7,6 +7,7 @@ long long nums = num;
 // first 
 if(nums < 0 )
 {
+    
     nums *= -1;
     Is_Minus = true;
 }
