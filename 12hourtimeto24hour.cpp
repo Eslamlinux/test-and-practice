@@ -57,7 +57,7 @@ string to24HourTime(int hour, int minute, const string& period) {
     int hour, minute;
     string period;
 
-    cout << "Enter time in 12-hour format (hh:mm am/pm): ";
+    cout << "Enter time in 12-hour only format (hh:mm am/pm): ";
     cin >> hour;
     char colon;
     cin >> colon >> minute;
