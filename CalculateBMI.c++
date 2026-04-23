@@ -11,6 +11,7 @@ if bmi > 30 return "Obese"
 */
 std::string bmi(double w, double h) 
 {
+  
   double Bmi = w/pow(h,2);
     std::string res;
 
