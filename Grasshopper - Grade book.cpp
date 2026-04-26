@@ -1,5 +1,6 @@
 #include <algorithm>
 #include <iostream>
+//
 using namespace std;
 char getGrade(int a, int b, int c) {
 int sum = a + b + c;
