@@ -25,6 +25,7 @@ void printtble()
 }
 int main()
 {
+    // start
     printtble();
     return 0;
 }
