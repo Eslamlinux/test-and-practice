@@ -25,6 +25,8 @@ consecutive strings : follow one after another without an interruption
 
 
 */
+
+
 #include <iostream>
 #include <string>
 #include <vector>
