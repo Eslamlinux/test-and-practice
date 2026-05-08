@@ -8,6 +8,9 @@ All inputs will be valid.
 #include <string>
 #include <vector>
 
+//
+
+
 std::string switcher(const std::vector<std::string>& arr) {
 	std::string result ;
 	for(int i = 0; i < arr.size();i++)
