@@ -1,5 +1,5 @@
 #include <iostream>
-//
+// dd
 void printhead()
 {
     std::cout << "\t\t\t\tMultiplication Table From 1 To 10\n\t";
